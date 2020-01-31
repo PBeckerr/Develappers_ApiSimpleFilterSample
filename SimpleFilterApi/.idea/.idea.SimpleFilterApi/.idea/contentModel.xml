@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\paulb\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\paulb\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="D:\work\Develappers_ApiSimpleFilterSample\SimpleFilterApi" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="PersonController.cs" t="Include" />
+      </e>
+      <e p="Core" t="Include">
+        <e p="PropertyHelper.cs" t="Include" />
+        <e p="WhereFilterBuilderExpression.cs" t="Include" />
+        <e p="WhereFilterByDynamic.cs" t="Include" />
+      </e>
+      <e p="Database" t="Include">
+        <e p="ApplicationDbContext.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20200131204130_Init.cs" t="Include" />
+        <e p="20200131204130_Init.Designer.cs" t="Include" />
+        <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Data.cs" t="Include" />
+        <e p="Filter.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="SimpleFilterApi.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="SimpleFilterApi.csproj" t="IncludeRecursive" />
+      <e p="SimpleFilterApi.sln" t="IncludeFlat" />
+      <e p="Startup.cs" t="Include" />
+    </e>
+    <e p="H:\Rider_Cache\extResources" t="IncludeRecursive" />
+    <e p="H:\Rider_Cache\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SimpleFilterApi.-666603961.00" t="ExcludeRecursive" />
+  </component>
+</project>
